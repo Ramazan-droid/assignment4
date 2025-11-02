@@ -1,0 +1,81 @@
+{
+    "id": "small_1",
+    "category": "small",
+    "description": "DAG graph with 9 nodes and 14 edges (density=0.55)",
+    "nodes": 9,
+    "edges": [
+        {
+            "from": 1,
+            "to": 5,
+            "w": 16
+        },
+        {
+            "from": 4,
+            "to": 5,
+            "w": 9
+        },
+        {
+            "from": 7,
+            "to": 8,
+            "w": 13
+        },
+        {
+            "from": 3,
+            "to": 4,
+            "w": 7
+        },
+        {
+            "from": 4,
+            "to": 7,
+            "w": 20
+        },
+        {
+            "from": 0,
+            "to": 5,
+            "w": 5
+        },
+        {
+            "from": 2,
+            "to": 4,
+            "w": 10
+        },
+        {
+            "from": 2,
+            "to": 8,
+            "w": 4
+        },
+        {
+            "from": 6,
+            "to": 7,
+            "w": 10
+        },
+        {
+            "from": 6,
+            "to": 8,
+            "w": 20
+        },
+        {
+            "from": 2,
+            "to": 6,
+            "w": 6
+        },
+        {
+            "from": 2,
+            "to": 5,
+            "w": 8
+        },
+        {
+            "from": 2,
+            "to": 3,
+            "w": 4
+        },
+        {
+            "from": 2,
+            "to": 4,
+            "w": 3
+        }
+    ],
+    "cyclic": false,
+    "source": 5,
+    "weight_model": "edge"
+}

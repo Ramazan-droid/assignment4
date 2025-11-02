@@ -1,0 +1,51 @@
+{
+    "id": "small_3",
+    "category": "small",
+    "description": "Cyclic graph with 7 nodes and 8 edges (density=0.25)",
+    "nodes": 7,
+    "edges": [
+        {
+            "from": 1,
+            "to": 3,
+            "w": 18
+        },
+        {
+            "from": 4,
+            "to": 2,
+            "w": 5
+        },
+        {
+            "from": 6,
+            "to": 3,
+            "w": 3
+        },
+        {
+            "from": 1,
+            "to": 3,
+            "w": 8
+        },
+        {
+            "from": 6,
+            "to": 3,
+            "w": 15
+        },
+        {
+            "from": 5,
+            "to": 2,
+            "w": 14
+        },
+        {
+            "from": 3,
+            "to": 1,
+            "w": 2
+        },
+        {
+            "from": 0,
+            "to": 2,
+            "w": 2
+        }
+    ],
+    "cyclic": true,
+    "source": 3,
+    "weight_model": "edge"
+}

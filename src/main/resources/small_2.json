@@ -1,0 +1,51 @@
+{
+    "id": "small_2",
+    "category": "small",
+    "description": "DAG graph with 7 nodes and 8 edges (density=0.35)",
+    "nodes": 7,
+    "edges": [
+        {
+            "from": 1,
+            "to": 2,
+            "w": 1
+        },
+        {
+            "from": 3,
+            "to": 6,
+            "w": 7
+        },
+        {
+            "from": 1,
+            "to": 5,
+            "w": 4
+        },
+        {
+            "from": 1,
+            "to": 2,
+            "w": 16
+        },
+        {
+            "from": 0,
+            "to": 6,
+            "w": 1
+        },
+        {
+            "from": 2,
+            "to": 6,
+            "w": 18
+        },
+        {
+            "from": 0,
+            "to": 4,
+            "w": 16
+        },
+        {
+            "from": 1,
+            "to": 2,
+            "w": 11
+        }
+    ],
+    "cyclic": false,
+    "source": 5,
+    "weight_model": "uniform"
+}
